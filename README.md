@@ -1,5 +1,7 @@
 # loan_status_prediction
 By leveraging historical loan data and utilising the powerful SVM algorithm, this project seeks to provide financial institutions with an accurate and efficient tool for assessing creditworthiness.
+
+
 Methodology:  
 a. Data Collection: Gather historical loan data including applicant information, credit scores, loan amounts, employment details, and previous loan statuses.
 b. Data Preprocessing: Cleanse the data, handle missing values, perform feature engineering, and encode categorical variables.
